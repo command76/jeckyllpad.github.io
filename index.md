@@ -14,7 +14,7 @@ Hi there! I’m Anthony Taveras.
 
 > And what I don’t already know am I more than capable of learning.
 
-### Works
+## Works
 
 **Front End Projects**\
 \
@@ -28,7 +28,7 @@ Hi there! I’m Anthony Taveras.
 \
 [![GitHub](https://e6.pngbyte.com/pngpicture/163534/png-Github-Svg-Icon-Github-Logo-Png-git_thumbnail.png)](https://github.com/command76)
 
-### Blog:
+## Blog
 **WordPress**\
 \
 [![WordPress](https://wpapprentice.com/wp-content/uploads/2020/05/wordpress-logo-200x200-1.png)](https://command76.wordpress.com)
