@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/command76/Portfolio_Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there! I’m Anthony Taveras.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> And I’m a code ninja.  I am highly disciplined in the art of web development; am always learning new skills and compounding my knowledge in the discipline.  From the latest frameworks and libraries to the newest techniques and technologies.
 
-### Markdown
+> I specialize in JavaScript, React, React-Native, Python, Node, Express, Mongoose, jQuery, HTML, CSS, Less, Php, Laravel, C#, and many more.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> I’ve worked in different mediums: web, mobile, and game.
 
-```markdown
-Syntax highlighted code block
+> I’d call myself a full stack developer, I’ve worked within the model view controller design framework, worked from home or in an office, I’ve learned about cloud architecture and Amazon Web Services.  And have earned many certificates that validate my credentials.  And I continue to earn more and more as a way to demonstrate my commitment and dedication to the craft.
 
-# Header 1
-## Header 2
-### Header 3
+> I also have knowledge in the design process of mobile and web applications.  Having a foundational understanding of human centered design and graphic design principles.
 
-- Bulleted
-- List
+> And what I don’t already know am I more than capable of learning.
 
-1. Numbered
-2. List
+### Works
 
-**Bold** and _Italic_ and `Code` text
+***Front End Projects**
+[![CodePen](https://cpwebassets.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png)](https://codepen.io/command76)
 
-[Link](url) and ![Image](src)
-```
+***Back End Projects**
+[![Replit](https://media-exp1.licdn.com/dms/image/C560BAQEPLD7YE1hPRw/company-logo_200_200/0/1521262777721?e=2147483647&v=beta&t=yGrQwRBf_cLlmyCW9V398WSxmzqbqOjUffmFeitarko)](https://replit.com/@command76)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+***Other Projects**
+[![GitHub](https://e6.pngbyte.com/pngpicture/163534/png-Github-Svg-Icon-Github-Logo-Png-git_thumbnail.png)](https://github.com/command76)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/command76/Portfolio_Site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Blog:
+***WordPress**
+[![WordPress](https://wpapprentice.com/wp-content/uploads/2020/05/wordpress-logo-200x200-1.png)](https://command76.wordpress.com)
