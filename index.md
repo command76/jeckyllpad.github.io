@@ -33,3 +33,8 @@ Hi there! I’m Anthony Taveras.
 **WordPress**\
 \
 [![WordPress](https://wpapprentice.com/wp-content/uploads/2020/05/wordpress-logo-200x200-1.png)](https://command76.wordpress.com)
+
+## CV/Profile
+**LinkedIn**\
+\
+[![LinkedIn](https://executivecareerbrand.com/wp-content/uploads/2014/09/200px-Linkedin.svg_-1.png)](www.linkedin.com/in/anthony-taveras-87497034)
