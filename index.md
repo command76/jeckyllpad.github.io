@@ -37,4 +37,4 @@ Hi there! I’m Anthony Taveras.
 ## CV/Profile
 **LinkedIn**\
 \
-[![LinkedIn](https://executivecareerbrand.com/wp-content/uploads/2014/09/200px-Linkedin.svg_-1.png)](www.linkedin.com/in/anthony-taveras-87497034)
+[![LinkedIn](https://executivecareerbrand.com/wp-content/uploads/2014/09/200px-Linkedin.svg_-1.png)](https://www.linkedin.com/in/anthony-taveras-87497034)
