@@ -19,7 +19,7 @@ Hi there! I’m Anthony Taveras.
 
 **Front End Projects**\
 \
-[![CodePen](https://cpwebassets.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png)](https://codepen.io/command76)
+[![CodePen](https://bn1303files.storage.live.com/y4mXooaSlR4h0Zyic7CZr0CxZ2YE-4b1LeL2lSeSkhj4WUiOzQrej3sh9l7NFHZIqumb4gcS0uOiK5Kd67L4Qbr_TPeOVpKuhXqEcWOY_1jjERsO7XA_OwIny4wbmbCdwXlIgYzMpanjKIC06Bmg0H8DAgwQRw1650-NR4ROe_rwiPoiepE8bPdhY0h2sMQYY7p?width=288&height=180&cropmode=none)](https://codepen.io/command76)
 
 **Back End Projects**\
 \
