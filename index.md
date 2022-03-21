@@ -9,7 +9,7 @@ Hi there! I’m Anthony Taveras.
 
 > I’ve worked in many different mediums: web, mobile, and gaming.
 
-> I’d call myself a full stack developer, I’ve worked within the model view controller design framework, worked from home or in an office, I’ve learned about cloud architecture and Amazon Web Services.  And have earned many certificates that validate my credentials.  And I continue to earn more and more as a way to demonstrate my commitment and dedication to the craft.
+> I’d call myself a full stack developer, I’ve worked within the model view controller design architecture, worked from home or in an office, I’ve learned about cloud computing and Amazon Web Services.  And have earned many certificates that validate my credentials.  And I continue to earn more and more as a way to demonstrate my commitment and dedication to the craft.
 
 > I also have knowledge in the design process of mobile and web applications.  Having a foundational understanding of human centered design and graphic design principles.
 
