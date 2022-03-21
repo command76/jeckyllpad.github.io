@@ -5,13 +5,13 @@ Hi there! I’m Anthony Taveras.
 
 > And I’m a code ninja.  I am highly disciplined in the art of web development; am always learning new skills and compounding my knowledge in the field.  From the latest frameworks and libraries to the newest techniques and technologies.
 
-> I specialize in JavaScript, React, React-Native, Python, Node, Express, Mongoose, jQuery, HTML, CSS, Less, Php, Laravel, C#, and many more.
+> I specialize in JavaScript, React, React-Native, Python, Node, Express, Mongoose, jQuery, HTML, CSS, Less, Php, Laravel, C#, Unity, and many more.
 
 > I’ve worked in many different mediums: web, mobile, and gaming.
 
 > I’d call myself a full stack developer, I’ve worked within the model view controller design architecture, worked from home or in an office, I’ve learned about cloud computing and Amazon Web Services.  And have earned many certificates that validate my credentials.  And I continue to earn more and more as a way to demonstrate my commitment and dedication to the craft.
 
-> I also have knowledge in the design process of mobile and web applications.  Having a foundational understanding of human centered design and graphic design principles.
+> I also have knowledge in the design process of mobile and web applications.  Having a foundational understanding of human-centered design and graphic design principles.
 
 > And what I don’t already know am I more than capable of learning.
 
