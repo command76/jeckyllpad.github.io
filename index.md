@@ -5,7 +5,7 @@ Hi there! I'm Anthony Taveras.
 
 > And I'm a code ninja.  I am highly disciplined in the art of web development; am always learning new skills and compounding my knowledge in the practice.  From the latest frameworks and libraries to the newest techniques and technologies.
 
-> I specialize in JavaScript, React, React-Native, Python, Node, Express, Mongoose, jQuery, HTML, CSS, Less, Php, Laravel, C#, Unity Elixir, Phoenix, and many more.
+> I specialize in JavaScript, React, React-Native, Python, Node, Express, Mongoose, jQuery, HTML, CSS, Less, Php, Laravel, C#, Unity, Elixir, Phoenix, and many more.
 
 > I've worked in many different mediums: web, mobile, and gaming.
 
