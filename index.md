@@ -36,7 +36,7 @@ _Github Repositories_
 \
 _Exercism_
 \
-[![Exercism](https://1drv.ms/u/s!Auq-bsEcCUg0w1i23cygCjyCs-Ji?e=dnK5ga)](https://exercism.org/profiles/command76){:target="_blank"}
+[![Exercism](https://dsm01pap007files.storage.live.com/y4mUr3MT7mwuUr7FmVbCwE_WsrlrxfoFoNPaIS0Zop7iO-hkpax5OaW2aaoT1DlW_w6qMXil2IuIoAuUlN-5ADjvW_9RsbeTA1PUrElfjmXk30eltHN-GWCSTCngrtcNHKPGXZGiVPB7ZHupbIpzr34bk5GSlJSpPxPiiCogyUVsqvw7PQHOGjb7zbSEsiQoRRB?width=288&height=180&cropmode=none)](https://exercism.org/profiles/command76){:target="_blank"}
 ## Blog
 **WordPress**\
 _Personal Blog_
