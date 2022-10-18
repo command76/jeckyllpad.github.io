@@ -36,7 +36,7 @@ _Github Repositories_
 \
 _Exercism_
 \
-[![Exercism](https://1drv.ms/u/s!Auq-bsEcCUg0w1erz6adDwrELOmW?e=6r3s3i)](https://exercism.org/profiles/command76){:target="_blank"}
+[![Exercism](https://1drv.ms/u/s!Auq-bsEcCUg0w1i23cygCjyCs-Ji?e=dnK5ga)](https://exercism.org/profiles/command76){:target="_blank"}
 ## Blog
 **WordPress**\
 _Personal Blog_
