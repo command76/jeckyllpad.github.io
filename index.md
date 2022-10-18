@@ -33,9 +33,10 @@ _Github Repositories_
 \
 [![GitHub](https://bn1303files.storage.live.com/y4mztcUno8XHLuFHl32taMpjN2VQYqJ3y3lBXQudzrnxmu1Wh0q9HdkytOLyyzLMn2FyL6U9MkIAv41f01OBVymjXjed1rYV5Q-WrDoJ4Ytpq-nVnPCFpugYiBEUOx7XxtYCgq-Mr5LqC9Z8_PEzQ2w4bT7z9cb-THVC3kcCGCq4xsgBmZUoYonmW8F849cvraM?width=288&height=180&cropmode=none)](https://github.com/command76){:target="_blank"}
 \
+\
 _Exercism_
 \
-[![Exercism](https://1drv.ms/u/s!Auq-bsEcCUg0w1erz6adDwrELOmW?e=6r3s3i)](https://exercism.org/profiles/command76)
+[![Exercism](https://1drv.ms/u/s!Auq-bsEcCUg0w1erz6adDwrELOmW?e=6r3s3i)](https://exercism.org/profiles/command76){:target="_blank"}
 ## Blog
 **WordPress**\
 _Personal Blog_
